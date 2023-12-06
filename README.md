@@ -1,8 +1,8 @@
 # delta-demo
 This is demo for git &amp; github.
 
-# teacher
-pankit
+# Teacher
+ Shradha
 
 # student
-deltas
+ Delta Student
